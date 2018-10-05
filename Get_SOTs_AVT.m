@@ -1,5 +1,5 @@
 %%
-clc; clear all; close all;
+clc; clear; close all;
 
 Subjects = 7;
 
