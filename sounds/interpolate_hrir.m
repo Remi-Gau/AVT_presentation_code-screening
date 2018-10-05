@@ -146,8 +146,8 @@ switch database
                     else
                         id = find(wavazimuth == round(azimuth{el}(az)));
                     end
-%                     [hrirR{el}(:,az), wavfs] = audioread(fullfile(workdir, fname{id})); % only wavread works with old Matlab versions
-                    [hrirR{el}(:,az), wavfs] = wavread(fullfile(workdir, fname{id}));
+                    [hrirR{el}(:,az), wavfs] = audioread(fullfile(workdir, fname{id})); % only wavread works with old Matlab versions
+%                     [hrirR{el}(:,az), wavfs] = wavread(fullfile(workdir, fname{id}));
                 end
                 fprintf('files read...');
                 
