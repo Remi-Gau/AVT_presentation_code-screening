@@ -1,11 +1,14 @@
 %%
 clc; clear; close all;
 
-Subjects = 17:19;
+Subjects = 19;
 
 FigDim = [100 100 1200 550];
 
+palamedes_path = 'D:\Dropbox\Code\MATLAB\Palamedes';
+addpath(genpath(palamedes_path))
 addpath(genpath(fullfile(pwd, 'subfun')))
+
 
 %Parameter grid defining parameter space through which to perform a
 %brute-force search for values to be used as initial guesses in iterative
