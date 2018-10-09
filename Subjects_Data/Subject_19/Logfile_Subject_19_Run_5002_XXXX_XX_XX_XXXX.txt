@@ -1,0 +1,436 @@
+Scenario - AVT psychophysics
+Logfile written - XXXX
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Response	3	398865	388699	1
+2	Sound	AudioOnly_Trial_A	404311	5000	2			5000		other	0
+3	Picture	ISI	407807	0	1	13160	3	0	next	other	0
+3	Response	1	411825	4018	1
+4	Sound	AudioOnly_Trial_A	425967	5000	1			5000		other	0
+5	Picture	ISI	429463	0	2	13161	3	0	next	other	0
+5	Response	2	430546	1083	1
+6	Sound	AudioOnly_Trial_A	447624	5000	2			5000		other	0
+7	Picture	ISI	451120	0	1	13160	2	0	next	other	0
+7	Response	1	452706	1586	1
+8	Sound	AudioOnly_Trial_A	469280	5000	2			5000		other	0
+9	Picture	ISI	472776	0	1	13160	2	0	next	other	0
+9	Response	2	478785	6009	1
+10	Sound	AudioOnly_Trial_A	490936	5000	2			5000		other	0
+11	Picture	ISI	494432	0	1	13160	3	0	next	other	0
+11	Response	1	503025	8593	1
+12	Sound	AudioOnly_Trial_A	512592	5000	2			5000		other	0
+13	Picture	ISI	516088	0	1	13161	2	0	next	other	0
+13	Response	1	517346	1258	1
+14	Sound	AudioOnly_Trial_A	534249	5000	2			5000		other	0
+15	Picture	ISI	537744	0	2	13161	3	0	next	other	0
+15	Response	1	548066	10322	1
+16	Sound	AudioOnly_Trial_A	555905	5000	2			5000		other	0
+17	Picture	ISI	559401	0	1	13160	2	0	next	other	0
+17	Response	2	561905	2504	1
+18	Sound	AudioOnly_Trial_A	577561	5000	2			5000		other	0
+19	Picture	ISI	581057	0	1	13160	2	0	next	other	0
+19	Response	2	582145	1088	1
+20	Sound	AudioOnly_Trial_A	599217	5000	2			5000		other	0
+21	Picture	ISI	602713	0	1	13160	3	0	next	other	0
+21	Response	1	604225	1512	1
+22	Sound	AudioOnly_Trial_A	620873	5000	2			5000		other	0
+23	Picture	ISI	624369	0	1	13161	2	0	next	other	0
+23	Response	2	629505	5136	1
+24	Sound	AudioOnly_Trial_A	642530	5000	2			5000		other	0
+25	Picture	ISI	646025	0	2	13161	3	0	next	other	0
+25	Response	1	648866	2841	1
+26	Sound	AudioOnly_Trial_A	664186	5000	2			5000		other	0
+27	Picture	ISI	667682	0	1	13160	2	0	next	other	0
+27	Response	2	676785	9103	1
+28	Sound	AudioOnly_Trial_A	685842	5000	2			5000		other	0
+29	Picture	ISI	689338	0	1	13160	2	0	next	other	0
+29	Response	1	692866	3528	1
+30	Sound	AudioOnly_Trial_A	707498	5000	2			5000		other	0
+31	Picture	ISI	710994	0	1	13160	3	0	next	other	0
+31	Response	1	713425	2431	1
+32	Sound	AudioOnly_Trial_A	729154	5000	1			5000		other	0
+33	Picture	ISI	732650	0	2	13161	3	0	next	other	0
+33	Response	2	733746	1096	1
+34	Sound	AudioOnly_Trial_A	750811	5000	2			5000		other	0
+35	Picture	ISI	754307	0	1	13160	2	0	next	other	0
+35	Response	2	755345	1038	1
+36	Sound	AudioOnly_Trial_A	772467	5000	2			5000		other	0
+37	Picture	ISI	775963	0	1	13160	2	0	next	other	0
+37	Response	1	777266	1303	1
+38	Sound	AudioOnly_Trial_A	794123	5000	2			5000		other	0
+39	Picture	ISI	797619	0	1	13160	3	0	next	other	0
+39	Response	1	800786	3167	1
+40	Sound	AudioOnly_Trial_A	815779	5000	2			5000		other	0
+41	Picture	ISI	819275	0	1	13161	2	0	next	other	0
+41	Response	1	826225	6950	1
+42	Sound	AudioOnly_Trial_A	837436	5000	2			5000		other	0
+43	Picture	ISI	840931	0	2	13161	3	0	next	other	0
+43	Response	2	843905	2974	1
+44	Sound	AudioOnly_Trial_A	859092	5000	2			5000		other	0
+45	Picture	ISI	862588	0	1	13160	2	0	next	other	0
+45	Response	1	866226	3638	1
+46	Sound	AudioOnly_Trial_A	880748	5000	2			5000		other	0
+47	Picture	ISI	884244	0	1	13160	2	0	next	other	0
+47	Response	2	887905	3661	1
+48	Sound	AudioOnly_Trial_A	902404	5000	2			5000		other	0
+49	Picture	ISI	905900	0	1	13160	3	0	next	other	0
+49	Response	1	911345	5445	1
+50	Sound	AudioOnly_Trial_A	924060	5000	1			5000		other	0
+51	Picture	ISI	927556	0	2	13161	3	0	next	other	0
+51	Response	1	930065	2509	1
+52	Sound	AudioOnly_Trial_A	945717	5000	2			5000		other	0
+53	Picture	ISI	949213	0	1	13160	2	0	next	other	0
+53	Response	1	952145	2932	1
+54	Sound	AudioOnly_Trial_A	967373	5000	2			5000		other	0
+55	Picture	ISI	970869	0	1	13160	2	0	next	other	0
+55	Response	2	974225	3356	1
+56	Sound	AudioOnly_Trial_A	989029	5000	1			5000		other	0
+57	Picture	ISI	992525	0	1	13160	3	0	next	other	0
+57	Response	2	997825	5300	1
+58	Sound	AudioOnly_Trial_A	1010685	5000	2			5000		other	0
+59	Picture	ISI	1014181	0	2	13161	3	0	next	other	0
+59	Response	2	1015906	1725	1
+60	Sound	AudioOnly_Trial_A	1032342	5000	2			5000		other	0
+61	Picture	ISI	1035838	0	1	13160	2	0	next	other	0
+61	Response	2	1044866	9028	1
+62	Sound	AudioOnly_Trial_A	1053998	5000	2			5000		other	0
+63	Picture	ISI	1057494	0	1	13160	2	0	next	other	0
+63	Response	1	1058705	1211	1
+64	Sound	AudioOnly_Trial_A	1075654	5000	2			5000		other	0
+65	Picture	ISI	1079150	0	1	13160	2	0	next	other	0
+65	Response	1	1084866	5716	1
+66	Sound	AudioOnly_Trial_A	1097310	5000	2			5000		other	0
+67	Picture	ISI	1100806	0	1	13161	2	0	next	other	0
+67	Response	1	1105746	4940	1
+68	Sound	AudioOnly_Trial_A	1118967	5000	2			5000		other	0
+69	Picture	ISI	1122462	0	2	13161	3	0	next	other	0
+69	Response	2	1123585	1123	1
+70	Sound	AudioOnly_Trial_A	1140623	5000	2			5000		other	0
+71	Picture	ISI	1144119	0	1	13160	2	0	next	other	0
+71	Response	1	1146545	2426	1
+72	Sound	AudioOnly_Trial_A	1162279	5000	2			5000		other	0
+73	Picture	ISI	1165775	0	1	13160	2	0	next	other	0
+73	Response	1	1172545	6770	1
+74	Sound	AudioOnly_Trial_A	1183935	5000	2			5000		other	0
+75	Picture	ISI	1187431	0	1	13160	3	0	next	other	0
+75	Response	1	1189185	1754	1
+76	Sound	AudioOnly_Trial_A	1205591	5000	2			5000		other	0
+77	Picture	ISI	1209087	0	2	13161	3	0	next	other	0
+77	Response	2	1210065	978	1
+78	Sound	AudioOnly_Trial_A	1227248	5000	1			5000		other	0
+79	Picture	ISI	1230744	0	1	13160	2	0	next	other	0
+79	Response	1	1235666	4922	1
+80	Sound	AudioOnly_Trial_A	1248904	5000	2			5000		other	0
+81	Picture	ISI	1252400	0	3	13160	4	0	next	other	0
+81	Response	1	1255105	2705	1
+82	Sound	AudioOnly_Trial_A	1270560	5000	2			5000		other	0
+83	Picture	ISI	1274056	0	1	13160	3	0	next	other	0
+83	Response	2	1276705	2649	1
+84	Sound	AudioOnly_Trial_A	1292216	5000	2			5000		other	0
+85	Picture	ISI	1295712	0	1	13161	2	0	next	other	0
+85	Response	2	1298226	2514	1
+86	Sound	AudioOnly_Trial_A	1313873	5000	2			5000		other	0
+87	Picture	ISI	1317369	0	1	13160	2	0	next	other	0
+87	Response	1	1318545	1176	1
+88	Sound	AudioOnly_Trial_A	1335529	5000	2			5000		other	0
+89	Picture	ISI	1339025	0	1	13160	2	0	next	other	0
+89	Response	1	1342945	3920	1
+90	Sound	AudioOnly_Trial_A	1357185	5000	2			5000		other	0
+91	Picture	ISI	1360681	0	1	13160	3	0	next	other	0
+91	Response	1	1362385	1704	1
+92	Sound	AudioOnly_Trial_A	1378841	5000	2			5000		other	0
+93	Picture	ISI	1382337	0	1	13161	2	0	next	other	0
+93	Response	1	1385505	3168	1
+94	Sound	AudioOnly_Trial_A	1400498	5000	2			5000		other	0
+95	Picture	ISI	1403994	0	1	13160	2	0	next	other	0
+95	Response	2	1405025	1031	1
+96	Sound	AudioOnly_Trial_A	1422154	5000	2			5000		other	0
+97	Picture	ISI	1425650	0	1	13160	2	0	next	other	0
+97	Response	2	1426785	1135	1
+98	Sound	AudioOnly_Trial_A	1443810	5000	2			5000		other	0
+99	Picture	ISI	1447306	0	1	13160	3	0	next	other	0
+99	Response	2	1449425	2119	1
+100	Sound	AudioOnly_Trial_A	1465466	5000	2			5000		other	0
+101	Picture	ISI	1468962	0	1	13161	2	0	next	other	0
+101	Response	2	1473665	4703	1
+102	Sound	AudioOnly_Trial_A	1487123	5000	2			5000		other	0
+103	Picture	ISI	1490618	0	2	13161	3	0	next	other	0
+103	Response	1	1491905	1287	1
+104	Sound	AudioOnly_Trial_A	1508779	5000	1			5000		other	0
+105	Picture	ISI	1512275	0	1	13160	2	0	next	other	0
+105	Response	1	1513506	1231	1
+106	Sound	AudioOnly_Trial_A	1530435	5000	2			5000		other	0
+107	Picture	ISI	1533931	0	1	13160	2	0	next	other	0
+107	Response	1	1540545	6614	1
+108	Sound	AudioOnly_Trial_A	1552091	5000	2			5000		other	0
+109	Picture	ISI	1555587	0	1	13161	2	0	next	other	0
+109	Response	2	1556545	958	1
+110	Sound	AudioOnly_Trial_A	1573748	5000	2			5000		other	0
+111	Picture	ISI	1577243	0	2	13161	3	0	next	other	0
+111	Response	2	1577986	743	1
+112	Sound	AudioOnly_Trial_A	1595404	5000	1			5000		other	0
+113	Picture	ISI	1598900	0	1	13160	2	0	next	other	0
+113	Response	2	1600706	1806	1
+114	Sound	AudioOnly_Trial_A	1617060	5000	2			5000		other	0
+115	Picture	ISI	1620556	0	1	13160	2	0	next	other	0
+115	Response	1	1622226	1670	1
+116	Sound	AudioOnly_Trial_A	1638716	5000	2			5000		other	0
+117	Picture	ISI	1642212	0	1	13160	3	0	next	other	0
+117	Response	2	1644625	2413	1
+118	Sound	AudioOnly_Trial_A	1660372	5000	2			5000		other	0
+119	Picture	ISI	1663868	0	2	13161	3	0	next	other	0
+119	Response	2	1665025	1157	1
+120	Sound	AudioOnly_Trial_A	1682029	5000	2			5000		other	0
+121	Picture	ISI	1685525	0	1	13160	2	0	next	other	0
+121	Response	1	1687665	2140	2
+122	Sound	AudioOnly_Trial_A	1703685	5000	2			5000		other	0
+123	Picture	ISI	1707181	0	1	13160	2	0	next	other	0
+123	Response	1	1712305	5124	1
+124	Sound	AudioOnly_Trial_A	1725341	5000	2			5000		other	0
+125	Picture	ISI	1728837	0	1	13160	3	0	next	other	0
+125	Response	2	1731425	2588	1
+126	Sound	AudioOnly_Trial_A	1746997	5000	2			5000		other	0
+127	Picture	ISI	1750493	0	1	13161	2	0	next	other	0
+127	Response	1	1759665	9172	1
+128	Sound	AudioOnly_Trial_A	1768654	5000	2			5000		other	0
+129	Picture	ISI	1772149	0	2	13161	3	0	next	other	0
+129	Response	1	1776945	4796	1
+130	Sound	AudioOnly_Trial_A	1790310	5000	2			5000		other	0
+131	Picture	ISI	1793806	0	1	13160	2	0	next	other	0
+131	Response	1	1796465	2659	1
+132	Sound	AudioOnly_Trial_A	1811966	5000	1			5000		other	0
+133	Picture	ISI	1815462	0	1	13160	3	0	next	other	0
+133	Response	1	1818705	3243	1
+134	Sound	AudioOnly_Trial_A	1833622	5000	2			5000		other	0
+135	Picture	ISI	1837118	0	1	13161	2	0	next	other	0
+135	Response	1	1840144	3026	2
+136	Sound	AudioOnly_Trial_A	1855279	5000	2			5000		other	0
+137	Picture	ISI	1858775	0	1	13160	2	0	next	other	0
+137	Response	2	1861746	2971	1
+138	Sound	AudioOnly_Trial_A	1876935	5000	2			5000		other	0
+139	Picture	ISI	1880431	0	1	13160	2	0	next	other	0
+139	Response	2	1881905	1474	1
+140	Sound	AudioOnly_Trial_A	1898591	5000	2			5000		other	0
+141	Picture	ISI	1902087	0	1	13160	3	0	next	other	0
+141	Response	2	1904065	1978	1
+142	Sound	AudioOnly_Trial_A	1920247	5000	1			5000		other	0
+143	Picture	ISI	1923743	0	1	13161	2	0	next	other	0
+143	Response	1	1925345	1602	1
+144	Sound	AudioOnly_Trial_A	1941904	5000	2			5000		other	0
+145	Picture	ISI	1945399	0	2	13161	3	0	next	other	0
+145	Response	2	1948225	2826	1
+146	Sound	AudioOnly_Trial_A	1963560	5000	2			5000		other	0
+147	Picture	ISI	1967056	0	1	13160	2	0	next	other	0
+147	Response	2	1969665	2609	1
+148	Sound	AudioOnly_Trial_A	1985216	5000	1			5000		other	0
+149	Picture	ISI	1988712	0	1	13160	2	0	next	other	0
+149	Response	1	1990786	2074	1
+150	Sound	AudioOnly_Trial_A	2006872	5000	2			5000		other	0
+151	Picture	ISI	2010368	0	1	13161	2	0	next	other	0
+151	Response	1	2012465	2097	1
+152	Sound	AudioOnly_Trial_A	2028529	5000	2			5000		other	0
+153	Picture	ISI	2032024	0	2	13161	3	0	next	other	0
+153	Response	1	2033745	1721	1
+154	Sound	AudioOnly_Trial_A	2050185	5000	2			5000		other	0
+155	Picture	ISI	2053681	0	1	13160	2	0	next	other	0
+155	Response	1	2057826	4145	1
+156	Sound	AudioOnly_Trial_A	2071841	5000	2			5000		other	0
+157	Picture	ISI	2075337	0	1	13160	2	0	next	other	0
+157	Response	1	2082786	7449	1
+158	Sound	AudioOnly_Trial_A	2093497	5000	2			5000		other	0
+159	Picture	ISI	2096993	0	1	13160	3	0	next	other	0
+159	Response	1	2104145	7152	1
+160	Sound	AudioOnly_Trial_A	2115153	5000	2			5000		other	0
+161	Picture	ISI	2118649	0	2	13161	3	0	next	other	0
+161	Response	2	2119986	1337	1
+162	Sound	AudioOnly_Trial_A	2136810	5000	2			5000		other	0
+163	Picture	ISI	2140306	0	1	13160	2	0	next	other	0
+163	Response	2	2143106	2800	1
+164	Sound	AudioOnly_Trial_A	2158466	5000	2			5000		other	0
+165	Picture	ISI	2161962	0	1	13160	2	0	next	other	0
+165	Response	1	2163985	2023	1
+166	Sound	AudioOnly_Trial_A	2180122	5000	2			5000		other	0
+167	Picture	ISI	2183618	0	1	13160	3	0	next	other	0
+167	Response	1	2187665	4047	1
+168	Sound	AudioOnly_Trial_A	2201778	5000	2			5000		other	0
+169	Picture	ISI	2205274	0	1	13161	2	0	next	other	0
+169	Response	1	2207826	2552	1
+170	Sound	AudioOnly_Trial_A	2223435	5000	1			5000		other	0
+171	Picture	ISI	2226931	0	1	13160	2	0	next	other	0
+171	Response	1	2229986	3055	1
+172	Sound	AudioOnly_Trial_A	2245091	5000	2			5000		other	0
+173	Picture	ISI	2248587	0	1	13160	2	0	next	other	0
+173	Response	2	2250146	1559	1
+174	Sound	AudioOnly_Trial_A	2266747	5000	2			5000		other	0
+175	Picture	ISI	2270243	0	1	13160	3	0	next	other	0
+175	Response	2	2274386	4143	1
+176	Sound	AudioOnly_Trial_A	2288403	5000	2			5000		other	0
+177	Picture	ISI	2291899	0	1	13161	2	0	next	other	0
+177	Response	2	2293825	1926	1
+178	Sound	AudioOnly_Trial_A	2310060	5000	2			5000		other	0
+179	Picture	ISI	2313556	0	1	13160	2	0	next	other	0
+179	Response	2	2314945	1389	1
+180	Sound	AudioOnly_Trial_A	2331716	5000	2			5000		other	0
+181	Picture	ISI	2335212	0	1	13160	2	0	next	other	0
+181	Response	1	2341906	6694	1
+182	Sound	AudioOnly_Trial_A	2353372	5000	2			5000		other	0
+183	Picture	ISI	2356868	0	1	13160	3	0	next	other	0
+183	Response	1	2358465	1597	1
+184	Sound	AudioOnly_Trial_A	2375028	5000	2			5000		other	0
+185	Picture	ISI	2378524	0	1	13161	2	0	next	other	0
+185	Response	2	2380625	2101	1
+186	Sound	AudioOnly_Trial_A	2396685	5000	2			5000		other	0
+187	Picture	ISI	2400181	0	1	13160	2	0	next	other	0
+187	Response	2	2403825	3644	1
+188	Sound	AudioOnly_Trial_A	2418341	5000	2			5000		other	0
+189	Picture	ISI	2421837	0	1	13160	2	0	next	other	0
+189	Response	2	2424706	2869	1
+190	Sound	AudioOnly_Trial_A	2439997	5000	2			5000		other	0
+191	Picture	ISI	2443493	0	1	13160	3	0	next	other	0
+191	Response	1	2444865	1372	1
+192	Sound	AudioOnly_Trial_A	2461653	5000	2			5000		other	0
+193	Picture	ISI	2465149	0	1	13161	2	0	next	other	0
+193	Response	1	2467025	1876	1
+194	Sound	AudioOnly_Trial_A	2483310	5000	2			5000		other	0
+195	Picture	ISI	2486805	0	2	13161	3	0	next	other	0
+195	Response	1	2488945	2140	1
+196	Sound	AudioOnly_Trial_A	2504966	5000	2			5000		other	0
+197	Picture	ISI	2508462	0	1	13160	2	0	next	other	0
+197	Response	1	2508786	324	1
+198	Sound	AudioOnly_Trial_A	2526622	5000	2			5000		other	0
+199	Picture	ISI	2530118	0	1	13160	2	0	next	other	0
+199	Response	2	2533026	2908	1
+200	Sound	AudioOnly_Trial_A	2548278	5000	2			5000		other	0
+201	Picture	ISI	2551774	0	1	13161	2	0	next	other	0
+201	Response	2	2554625	2851	1
+202	Sound	AudioOnly_Trial_A	2569935	5000	2			5000		other	0
+203	Picture	ISI	2573430	0	2	13161	3	0	next	other	0
+203	Response	2	2576705	3275	1
+204	Sound	AudioOnly_Trial_A	2591591	5000	2			5000		other	0
+205	Picture	ISI	2595087	0	1	13160	2	0	next	other	0
+205	Response	2	2597265	2178	1
+206	Sound	AudioOnly_Trial_A	2613247	5000	2			5000		other	0
+207	Picture	ISI	2616743	0	1	13160	2	0	next	other	0
+207	Response	1	2617906	1163	1
+208	Sound	AudioOnly_Trial_A	2634903	5000	2			5000		other	0
+209	Picture	ISI	2638399	0	1	13161	2	0	next	other	0
+209	Response	2	2643106	4707	1
+210	Sound	AudioOnly_Trial_A	2656560	5000	2			5000		other	0
+211	Picture	ISI	2660056	0	1	13160	2	0	next	other	0
+211	Response	1	2662145	2089	1
+212	Sound	AudioOnly_Trial_A	2678216	5000	1			5000		other	0
+213	Picture	ISI	2681712	0	1	13160	2	0	next	other	0
+213	Response	2	2682946	1234	1
+214	Sound	AudioOnly_Trial_A	2699872	5000	2			5000		other	0
+215	Picture	ISI	2703368	0	1	13160	2	0	next	other	0
+215	Response	1	2704305	937	1
+216	Sound	AudioOnly_Trial_A	2721528	5000	2			5000		other	0
+217	Picture	ISI	2725024	0	1	13161	2	0	next	other	0
+217	Response	1	2727666	2642	1
+218	Sound	AudioOnly_Trial_A	2743185	5000	2			5000		other	0
+219	Picture	ISI	2746680	0	2	13161	3	0	next	other	0
+219	Response	2	2750386	3706	1
+220	Sound	AudioOnly_Trial_A	2764841	5000	1			5000		other	0
+221	Picture	ISI	2768337	0	1	13160	2	0	next	other	0
+221	Response	2	2776545	8208	1
+222	Sound	AudioOnly_Trial_A	2786497	5000	2			5000		other	0
+223	Picture	ISI	2789993	0	1	13160	3	0	next	other	0
+223	Response	1	2795505	5512	1
+224	Sound	AudioOnly_Trial_A	2808153	5000	1			5000		other	0
+225	Picture	ISI	2811649	0	1	13161	2	0	next	other	0
+225	Response	1	2817666	6017	1
+226	Sound	AudioOnly_Trial_A	2829810	5000	2			5000		other	0
+227	Picture	ISI	2833306	0	1	13160	2	0	next	other	0
+227	Response	1	2834866	1560	1
+228	Sound	AudioOnly_Trial_A	2851466	5000	2			5000		other	0
+229	Picture	ISI	2854962	0	1	13160	2	0	next	other	0
+229	Response	2	2856465	1503	1
+230	Sound	AudioOnly_Trial_A	2873122	5000	2			5000		other	0
+231	Picture	ISI	2876618	0	1	13160	2	0	next	other	0
+231	Response	1	2886785	10167	1
+232	Sound	AudioOnly_Trial_A	2894778	5000	2			5000		other	0
+233	Picture	ISI	2898274	0	1	13161	2	0	next	other	0
+233	Response	2	2906306	8032	1
+234	Sound	AudioOnly_Trial_A	2916435	5000	2			5000		other	0
+235	Picture	ISI	2919930	0	2	13161	3	0	next	other	0
+235	Response	1	2929106	9176	1
+236	Sound	AudioOnly_Trial_A	2938091	5000	1			5000		other	0
+237	Picture	ISI	2941587	0	1	13160	2	0	next	other	0
+237	Response	2	2943985	2398	1
+238	Sound	AudioOnly_Trial_A	2959747	5000	2			5000		other	0
+239	Picture	ISI	2963243	0	1	13160	3	0	next	other	0
+239	Response	1	2964945	1702	1
+240	Sound	AudioOnly_Trial_A	2981403	5000	2			5000		other	0
+241	Picture	ISI	2984899	0	2	13161	3	0	next	other	0
+241	Response	2	2989985	5086	1
+242	Sound	AudioOnly_Trial_A	3003060	5000	2			5000		other	0
+243	Picture	ISI	3006556	0	1	13160	2	0	next	other	0
+243	Response	2	3011026	4470	1
+244	Sound	AudioOnly_Trial_A	3024716	5000	1			5000		other	0
+245	Picture	ISI	3028212	0	1	13160	2	0	next	other	0
+245	Response	2	3029665	1453	1
+246	Sound	AudioOnly_Trial_A	3046372	5000	1			5000		other	0
+247	Picture	ISI	3049868	0	1	13160	3	0	next	other	0
+247	Response	1	3051025	1157	1
+248	Sound	AudioOnly_Trial_A	3068028	5000	2			5000		other	0
+249	Picture	ISI	3071524	0	2	13161	3	0	next	other	0
+249	Response	1	3075185	3661	1
+250	Sound	AudioOnly_Trial_A	3089685	5000	2			5000		other	0
+251	Picture	ISI	3093181	0	1	13160	2	0	next	other	0
+251	Response	1	3094465	1284	2
+252	Sound	AudioOnly_Trial_A	3111341	5000	2			5000		other	0
+253	Picture	ISI	3114837	0	1	13160	2	0	next	other	0
+253	Response	1	3116705	1868	1
+254	Sound	AudioOnly_Trial_A	3132997	5000	2			5000		other	0
+255	Picture	ISI	3136493	0	1	13160	3	0	next	other	0
+255	Response	2	3140706	4213	1
+256	Sound	AudioOnly_Trial_A	3154653	5000	2			5000		other	0
+257	Picture	ISI	3158149	0	2	13161	3	0	next	other	0
+257	Response	2	3159505	1356	1
+258	Sound	AudioOnly_Trial_A	3176310	5000	2			5000		other	0
+259	Picture	ISI	3179806	0	1	13160	2	0	next	other	0
+259	Response	2	3183985	4179	1
+260	Sound	AudioOnly_Trial_A	3197966	5000	2			5000		other	0
+261	Picture	ISI	3201462	0	1	13160	3	0	next	other	0
+261	Response	1	3203426	1964	1
+262	Sound	AudioOnly_Trial_A	3219622	5000	2			5000		other	0
+263	Picture	ISI	3223118	0	1	13161	2	0	next	other	0
+263	Response	2	3234946	11828	1
+264	Sound	AudioOnly_Trial_A	3241279	5000	2			5000		other	0
+265	Picture	ISI	3244774	0	2	13161	3	0	next	other	0
+265	Response	2	3250225	5451	1
+266	Sound	AudioOnly_Trial_A	3262935	5000	2			5000		other	0
+267	Picture	ISI	3266431	0	1	13160	2	0	next	other	0
+267	Response	2	3269185	2754	1
+268	Sound	AudioOnly_Trial_A	3284591	5000	2			5000		other	0
+269	Picture	ISI	3288087	0	1	13160	3	0	next	other	0
+269	Response	1	3296225	8138	1
+270	Sound	AudioOnly_Trial_A	3306247	5000	2			5000		other	0
+271	Picture	ISI	3309743	0	1	13161	2	0	next	other	0
+271	Response	1	3318866	9123	1
+272	Sound	AudioOnly_Trial_A	3327904	5000	2			5000		other	0
+273	Picture	ISI	3331400	0	1	13160	2	0	next	other	0
+273	Response	2	3333905	2505	1
+274	Sound	AudioOnly_Trial_A	3349560	5000	2			5000		other	0
+275	Picture	ISI	3353056	0	1	13160	2	0	next	other	0
+275	Response	1	3356705	3649	1
+276	Sound	AudioOnly_Trial_A	3371216	5000	1			5000		other	0
+277	Picture	ISI	3374712	0	1	13161	2	0	next	other	0
+277	Response	1	3376385	1673	1
+278	Sound	AudioOnly_Trial_A	3392873	5000	2			5000		other	0
+279	Picture	ISI	3396368	0	2	13161	3	0	next	other	0
+279	Response	1	3401265	4897	1
+280	Sound	AudioOnly_Trial_A	3414529	5000	2			5000		other	0
+281	Picture	ISI	3418025	0	1	13160	2	0	next	other	0
+281	Response	2	3424306	6281	1
+282	Sound	AudioOnly_Trial_A	3436185	5000	2			5000		other	0
+283	Picture	ISI	3439681	0	1	13160	3	0	next	other	0
+283	Response	1	3443347	3666	1
+284	Sound	AudioOnly_Trial_A	3457841	5000	2			5000		other	0
+285	Picture	ISI	3461337	0	2	13161	3	0	next	other	0
+285	Response	2	3463986	2649	1
+286	Sound	AudioOnly_Trial_A	3479498	5000	2			5000		other	0
+287	Picture	ISI	3482994	0	1	13160	2	0	next	other	0
+287	Response	1	3484465	1471	1
+288	Picture	Final_Fixation	3496154	0	1	15365	2	0	next	other	0

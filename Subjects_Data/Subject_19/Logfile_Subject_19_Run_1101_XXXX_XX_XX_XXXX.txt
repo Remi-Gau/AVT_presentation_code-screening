@@ -1,0 +1,168 @@
+Scenario - Auditory localization: psychophysics
+Logfile written - XXXX
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Response	3	251545	240879	1
+2	Sound	AudioOnly_Trial_A	256715	5000	2			5000		other	0
+3	Response	2	265225	5014	1
+4	Picture	PositiveFeeback	265227	0	316	4146	317	0	next	other	0
+5	Picture	ISI	269373	0	1	14160	2	0	next	other	0
+6	Sound	AudioOnly_Trial_A	288533	5000	2			5000		other	0
+7	Picture	AuditoryLocation	297193	5164	1	167	2	5000	next	incorrect	8
+7	Response	2	297225	5196	1
+8	Picture	NegativeFeeback	297360	0	1	4164	2	0	next	other	0
+9	Picture	ISI	301524	0	1	14160	2	0	next	other	0
+10	Sound	AudioOnly_Trial_A	320684	5000	2			5000		other	0
+11	Response	1	329304	5124	1
+12	Picture	PositiveFeeback	329344	0	1	4165	2	0	next	other	0
+13	Picture	ISI	333509	0	1	14159	3	0	next	other	0
+14	Sound	AudioOnly_Trial_A	352668	5000	2			5000		other	0
+15	Response	2	360986	4822	1
+16	Picture	PositiveFeeback	361162	0	1	4165	2	0	next	other	0
+17	Picture	ISI	365327	0	1	14159	2	0	next	other	0
+18	Sound	AudioOnly_Trial_A	384486	5000	1			5000		other	0
+19	Response	1	391145	3163	1
+20	Picture	PositiveFeeback	391314	0	1	4164	3	0	next	other	0
+21	Picture	ISI	395478	0	2	14160	3	0	next	other	0
+22	Sound	AudioOnly_Trial_A	414638	5000	3			5000		other	0
+23	Response	1	421865	3731	1
+24	Picture	PositiveFeeback	421966	0	1	4164	2	0	next	other	0
+25	Picture	ISI	426130	0	1	14160	2	0	next	other	0
+26	Sound	AudioOnly_Trial_A	445290	5000	2			5000		other	0
+27	Response	2	451865	3079	1
+28	Picture	PositiveFeeback	451951	0	1	4165	2	0	next	other	0
+29	Picture	ISI	456116	0	1	14159	3	0	next	other	0
+30	Sound	AudioOnly_Trial_A	475275	5000	2			5000		other	0
+31	Response	1	482025	3254	1
+32	Picture	PositiveFeeback	482103	0	1	4165	2	0	next	other	0
+33	Picture	ISI	486268	0	1	14159	3	0	next	other	0
+34	Sound	AudioOnly_Trial_A	505427	5000	2			5000		other	0
+35	Response	1	512185	3263	1
+36	Picture	PositiveFeeback	512255	0	1	4165	2	0	next	other	0
+37	Picture	ISI	516420	0	1	14159	3	0	next	other	0
+38	Sound	AudioOnly_Trial_A	535579	5000	2			5000		other	0
+39	Response	1	541465	2390	1
+40	Picture	PositiveFeeback	541574	0	1	4165	2	0	next	other	0
+41	Picture	ISI	545739	0	1	14159	3	0	next	other	0
+42	Sound	AudioOnly_Trial_A	564898	5000	2			5000		other	0
+43	Response	2	570025	1631	1
+44	Picture	PositiveFeeback	570060	0	1	4165	2	0	next	other	0
+45	Picture	ISI	574225	0	1	14160	2	0	next	other	0
+46	Sound	AudioOnly_Trial_A	593385	5000	2			5000		other	0
+47	Response	1	598265	1385	1
+48	Picture	PositiveFeeback	598380	0	1	4164	3	0	next	other	0
+49	Picture	ISI	602544	0	2	14160	3	0	next	other	0
+50	Sound	AudioOnly_Trial_A	621704	5000	2			5000		other	0
+51	Response	2	626105	905	1
+52	Picture	PositiveFeeback	626199	0	2	4165	3	0	next	other	0
+53	Picture	ISI	630364	0	1	14160	2	0	next	other	0
+54	Sound	AudioOnly_Trial_A	649524	5000	2			5000		other	0
+55	Response	2	655145	2125	1
+56	Picture	PositiveFeeback	655185	0	2	4165	3	0	next	other	0
+57	Picture	ISI	659350	0	1	14160	2	0	next	other	0
+58	Sound	AudioOnly_Trial_A	678510	5000	2			5000		other	0
+59	Response	2	682825	819	1
+60	Picture	PositiveFeeback	682839	0	1	4164	2	0	next	other	0
+61	Picture	ISI	687003	0	1	14160	2	0	next	other	0
+62	Sound	AudioOnly_Trial_A	706163	5000	2			5000		other	0
+63	Response	2	710745	1086	1
+64	Picture	PositiveFeeback	710825	0	1	4165	2	0	next	other	0
+65	Picture	ISI	714990	0	1	14159	3	0	next	other	0
+66	Sound	AudioOnly_Trial_A	734149	5000	2			5000		other	0
+67	Response	1	739305	1660	1
+68	Picture	PositiveFeeback	739478	0	1	4164	3	0	next	other	0
+69	Picture	ISI	743642	0	2	14160	3	0	next	other	0
+70	Sound	AudioOnly_Trial_A	762802	5000	2			5000		other	0
+71	Response	1	769225	2927	1
+72	Picture	PositiveFeeback	769297	0	1	4164	2	0	next	other	0
+73	Picture	ISI	773461	0	1	14160	2	0	next	other	0
+74	Sound	AudioOnly_Trial_A	792621	5000	2			5000		other	0
+75	Response	2	798105	1988	1
+76	Picture	PositiveFeeback	798282	0	2	4165	3	0	next	other	0
+77	Picture	ISI	802447	0	1	14160	2	0	next	other	0
+78	Sound	AudioOnly_Trial_A	821607	5000	2			5000		other	0
+79	Response	2	826186	1083	1
+80	Picture	PositiveFeeback	826269	0	1	4165	2	0	next	other	0
+81	Picture	ISI	830434	0	1	14159	3	0	next	other	0
+82	Sound	AudioOnly_Trial_A	849593	5000	2			5000		other	0
+83	Response	2	855785	2696	1
+84	Picture	PositiveFeeback	855921	0	1	4165	2	0	next	other	0
+85	Picture	ISI	860086	0	1	14160	2	0	next	other	0
+86	Sound	AudioOnly_Trial_A	879246	5000	2			5000		other	0
+87	Response	1	884265	1524	1
+88	Picture	PositiveFeeback	884407	0	1	4165	2	0	next	other	0
+89	Picture	ISI	888572	0	1	14160	2	0	next	other	0
+90	Sound	AudioOnly_Trial_A	907732	5000	2			5000		other	0
+91	Response	2	912666	1438	1
+92	Picture	PositiveFeeback	912727	0	1	4164	3	0	next	other	0
+93	Picture	ISI	916891	0	2	14160	3	0	next	other	0
+94	Sound	AudioOnly_Trial_A	936051	5000	2			5000		other	0
+95	Response	1	941946	2399	1
+96	Picture	PositiveFeeback	942046	0	1	4165	2	0	next	other	0
+97	Picture	ISI	946211	0	1	14159	3	0	next	other	0
+98	Sound	AudioOnly_Trial_A	965370	5000	2			5000		other	0
+99	Response	1	971786	2920	1
+100	Picture	PositiveFeeback	971865	0	1	4164	3	0	next	other	0
+101	Picture	ISI	976029	0	2	14160	3	0	next	other	0
+102	Sound	AudioOnly_Trial_A	995189	5000	1			5000		other	0
+103	Response	2	1001305	2620	1
+104	Picture	PositiveFeeback	1001350	0	2	4165	3	0	next	other	0
+105	Picture	ISI	1005515	0	1	14160	2	0	next	other	0
+106	Sound	AudioOnly_Trial_A	1024675	5000	2			5000		other	0
+107	Response	1	1030505	2334	1
+108	Picture	PositiveFeeback	1030669	0	2	4165	3	0	next	other	0
+109	Picture	ISI	1034834	0	1	14160	2	0	next	other	0
+110	Sound	AudioOnly_Trial_A	1053994	5000	2			5000		other	0
+111	Response	1	1059945	2455	1
+112	Picture	PositiveFeeback	1059989	0	1	4164	2	0	next	other	0
+113	Picture	ISI	1064153	0	1	14160	2	0	next	other	0
+114	Sound	AudioOnly_Trial_A	1083313	5000	1			5000		other	0
+115	Response	2	1089305	2496	1
+116	Picture	PositiveFeeback	1089474	0	1	4165	2	0	next	other	0
+117	Picture	ISI	1093639	0	1	14160	2	0	next	other	0
+118	Sound	AudioOnly_Trial_A	1112799	5000	2			5000		other	0
+119	Response	2	1118025	1731	1
+120	Picture	PositiveFeeback	1118127	0	1	4165	2	0	next	other	0
+121	Picture	ISI	1122292	0	1	14159	3	0	next	other	0
+122	Sound	AudioOnly_Trial_A	1141451	5000	2			5000		other	0
+123	Response	2	1146665	1718	1
+124	Picture	PositiveFeeback	1146780	0	1	4164	3	0	next	other	0
+125	Picture	ISI	1150944	0	2	14160	3	0	next	other	0
+126	Sound	AudioOnly_Trial_A	1170104	5000	2			5000		other	0
+127	Response	2	1175706	2106	1
+128	Picture	PositiveFeeback	1175766	0	1	4164	2	0	next	other	0
+129	Picture	ISI	1179930	0	1	14160	2	0	next	other	0
+130	Sound	AudioOnly_Trial_A	1199090	5000	2			5000		other	0
+131	Response	1	1204665	2079	1
+132	Picture	PositiveFeeback	1204751	0	2	4165	3	0	next	other	0
+133	Picture	ISI	1208916	0	1	14160	2	0	next	other	0
+134	Sound	AudioOnly_Trial_A	1228076	5000	2			5000		other	0
+135	Response	1	1233465	1893	1
+136	Picture	PositiveFeeback	1233571	0	1	4164	3	0	next	other	0
+137	Picture	ISI	1237735	0	2	14160	3	0	next	other	0
+138	Sound	AudioOnly_Trial_A	1256895	5000	2			5000		other	0
+139	Response	1	1261945	1554	1
+140	Picture	PositiveFeeback	1262057	0	1	4165	2	0	next	other	0
+141	Picture	ISI	1266222	0	1	14159	3	0	next	other	0
+142	Sound	AudioOnly_Trial_A	1285381	5000	2			5000		other	0
+143	Response	2	1290345	1468	1
+144	Picture	PositiveFeeback	1290377	0	1	4164	2	0	next	other	0
+145	Picture	ISI	1294541	0	1	14160	2	0	next	other	0
+146	Sound	AudioOnly_Trial_A	1313701	5000	2			5000		other	0
+147	Response	1	1320185	2988	1
+148	Picture	PositiveFeeback	1320362	0	1	4165	2	0	next	other	0
+149	Picture	ISI	1324527	0	1	14159	3	0	next	other	0
+150	Sound	AudioOnly_Trial_A	1343686	5000	2			5000		other	0
+151	Response	2	1348905	1723	1
+152	Picture	PositiveFeeback	1349015	0	1	4164	2	0	next	other	0
+153	Picture	ISI	1353179	0	1	14160	2	0	next	other	0
+154	Sound	AudioOnly_Trial_A	1372339	5000	2			5000		other	0
+155	Response	1	1377305	1470	1
+156	Picture	PositiveFeeback	1377334	0	1	4165	2	0	next	other	0
+157	Picture	ISI	1381499	0	1	14160	2	0	next	other	0
+158	Sound	AudioOnly_Trial_A	1400659	5000	2			5000		other	0
+159	Response	2	1405145	991	1
+160	Picture	PositiveFeeback	1405321	0	1	4164	2	0	next	other	0
+161	Picture	ISI	1409485	0	1	14160	2	0	next	other	0
+162	Picture	Final_Fixation	1423645	0	1	15361	2	0	next	other	0

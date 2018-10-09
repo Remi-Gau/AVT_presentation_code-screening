@@ -1,0 +1,313 @@
+Scenario - AVT at 7 tesla
+Logfile written - XXXX
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+0	Pulse	30	0	0	NA
+1	Pulse	30	30000	16169	NA
+1	Response	2	48328	34497	1
+1	Pulse	30	60000	46169	NA
+1	Pulse	30	90000	76169	NA
+1	Pulse	30	120000	106169	NA
+1	Pulse	30	150000	136169	NA
+2	Pulse	30	180000	29567	NA
+2	Response	2	182659	32226	1
+2	Pulse	30	210000	59567	NA
+2	Pulse	30	240000	89567	NA
+2	Pulse	30	270000	119567	NA
+2	Pulse	30	300000	149567	NA
+2	Pulse	30	330000	179567	NA
+2	Pulse	30	360000	209567	NA
+2	Pulse	30	390000	239567	NA
+2	Pulse	30	420000	269567	NA
+2	Pulse	30	450000	299567	NA
+2	Pulse	30	480000	329567	NA
+2	Pulse	30	510000	359567	NA
+2	Pulse	30	540000	389567	NA
+2	Pulse	30	570000	419567	NA
+2	Pulse	30	600000	449567	NA
+2	Pulse	30	630000	479567	NA
+2	Pulse	30	660000	509567	NA
+2	Pulse	30	690000	539567	NA
+3	Pulse	30	720000	14995	NA
+3	Pulse	30	750000	44995	NA
+3	Pulse	30	780000	74995	NA
+3	Response	2	793118	88113	1
+3	Pulse	30	810000	104995	NA
+5	Picture	ISI	813287	813287	1	16659	2	0	next	other	0
+5	Picture	Start	829946	829946	1	167	2	0	next	other	0
+6	Picture	ISI	830113	0	1	16658	3	0	next	other	0
+6	Pulse	30	840000	9887	NA
+7	Picture	VisualOnly_Trial	851769	4998	1	666	2	5000	500	other	0
+8	Picture	ISI	852602	0	1	16659	2	0	next	other	0
+9	Pulse	30	870000	739	NA
+9	Picture	VisualOnly_Trial	874258	4997	2	667	3	5000	500	other	0
+10	Picture	ISI	875091	0	1	16659	2	0	next	other	0
+11	Picture	VisualOnly_Trial	896747	4997	2	667	3	5000	500	other	0
+12	Picture	ISI	897581	0	1	16658	3	0	next	other	0
+12	Pulse	30	900000	2419	NA
+13	Picture	VisualOnly_Trial	919237	4998	1	666	3	5000	500	other	0
+14	Picture	ISI	920070	0	1	16659	2	0	next	other	0
+14	Pulse	30	930000	9930	NA
+15	Sound	AudioOnly_Target_A	941570	4841	2			5000		other	0
+16	Picture	ISI	942393	0	1	16659	2	0	next	other	0
+16	Response	1	949054	6661	1
+17	Pulse	30	960000	948	NA
+17	Picture	Tactile_Trial	964049	4997	2	1166	4	5000	next	other	0
+18	Picture	ISI	965215	0	2	16659	3	0	next	other	0
+19	Picture	Tactile_Trial	986872	4998	1	1166	2	5000	next	other	0
+20	Picture	ISI	988038	0	1	16659	2	0	next	other	0
+20	Pulse	30	990000	1962	NA
+21	Picture	Tactile_Trial	1009694	4997	2	1167	3	5000	next	other	0
+22	Picture	ISI	1010861	0	1	16658	3	0	next	other	0
+22	Pulse	30	1020000	9139	NA
+23	Picture	VisualOnly_Target	1032517	4998	1	500	2	5000	500	other	0
+24	Picture	ISI	1034350	0	1	16658	2	0	next	other	0
+24	Response	1	1038734	4384	1
+24	Pulse	30	1050000	15650	NA
+25	Picture	VisualOnly_Trial	1056006	4998	1	666	2	5000	500	other	0
+26	Picture	ISI	1056839	0	1	16659	2	0	next	other	0
+27	Picture	VisualOnly_Trial	1078495	4997	2	667	3	5000	500	other	0
+28	Picture	ISI	1079328	0	2	16659	3	0	next	other	0
+28	Pulse	30	1080000	672	NA
+29	Picture	VisualOnly_Target	1100985	4998	1	500	2	5000	500	other	0
+30	Picture	ISI	1102817	0	1	16659	2	0	next	other	0
+30	Response	1	1106654	3837	1
+30	Pulse	30	1110000	7183	NA
+31	Sound	AudioOnly_Trial_A	1124332	4856	2			5000		other	0
+32	Picture	ISI	1125307	0	1	16658	3	0	next	other	0
+32	Pulse	30	1140000	14693	NA
+33	Picture	VisualOnly_Target	1146963	4998	1	500	2	5000	500	other	0
+34	Picture	ISI	1148796	0	1	16658	3	0	next	other	0
+34	Response	1	1154014	5218	1
+35	Pulse	30	1170000	4546	NA
+35	Picture	VisualOnly_Trial	1170452	4998	1	666	3	5000	500	other	0
+36	Picture	ISI	1171285	0	1	16659	2	0	next	other	0
+37	Picture	VisualOnly_Trial	1192941	4997	2	667	3	5000	500	other	0
+38	Picture	ISI	1193774	0	2	16659	3	0	next	other	0
+38	Pulse	30	1200000	6226	NA
+39	Picture	VisualOnly_Trial	1215431	4998	1	666	2	5000	500	other	0
+40	Picture	ISI	1216264	0	1	16659	2	0	next	other	0
+40	Pulse	30	1230000	13736	NA
+41	Picture	VisualOnly_Target	1237920	4997	1	500	2	5000	500	other	0
+42	Picture	ISI	1239753	0	1	16658	3	0	next	other	0
+42	Response	1	1245054	5301	1
+43	Pulse	30	1260000	3589	NA
+43	Sound	AudioOnly_Trial_A	1261270	4859	2			5000		other	0
+44	Picture	ISI	1262242	0	1	16659	2	0	next	other	0
+45	Picture	Tactile_Target	1283898	4997	2	3332	3	5000	next	hit	96
+46	Picture	ISI	1287230	0	1	16659	2	0	next	other	0
+46	Pulse	30	1290000	2770	NA
+46	Response	1	1294254	7024	1
+47	Picture	VisualOnly_Trial	1308887	4998	1	666	2	5000	500	other	0
+48	Picture	ISI	1309720	0	1	16658	3	0	next	other	0
+48	Pulse	30	1320000	10280	NA
+49	Picture	VisualOnly_Trial	1331376	4998	1	666	3	5000	500	other	0
+50	Picture	ISI	1332209	0	1	16659	2	0	next	other	0
+51	Pulse	30	1350000	1132	NA
+51	Sound	AudioOnly_Target_A	1353709	4841	2			5000		other	0
+52	Picture	ISI	1354530	0	4	16661	5	0	next	other	0
+52	Response	1	1361454	6924	1
+53	Picture	VisualOnly_Trial	1376188	4997	1	667	2	5000	500	other	0
+54	Picture	ISI	1377021	0	1	16659	2	0	next	other	0
+54	Pulse	30	1380000	2979	NA
+55	Picture	VisualOnly_Trial	1398678	4998	1	666	2	5000	500	other	0
+56	Picture	ISI	1399511	0	1	16658	3	0	next	other	0
+56	Pulse	30	1410000	10489	NA
+57	Picture	VisualOnly_Trial	1421167	4998	1	666	3	5000	500	other	0
+58	Picture	ISI	1422000	0	1	16659	2	0	next	other	0
+59	Pulse	30	1440000	1341	NA
+59	Picture	VisualOnly_Trial	1443656	4997	2	667	3	5000	500	other	0
+60	Picture	ISI	1444489	0	2	16659	3	0	next	other	0
+61	Picture	VisualOnly_Target	1466146	4998	1	500	2	5000	500	other	0
+62	Picture	ISI	1467978	0	1	16659	2	0	next	other	0
+62	Pulse	30	1470000	2022	NA
+62	Response	1	1473214	5236	1
+63	Picture	Tactile_Trial	1489635	4998	1	1166	2	5000	next	other	0
+64	Picture	ISI	1490801	0	1	16659	2	0	next	other	0
+64	Pulse	30	1500000	9199	NA
+65	Picture	Tactile_Trial	1512457	4997	1	1166	3	5000	next	other	0
+66	Picture	ISI	1513623	0	2	16659	3	0	next	other	0
+66	Pulse	30	1530000	16377	NA
+67	Sound	AudioOnly_Target_A	1535124	4842	2			5000		other	0
+68	Picture	ISI	1535946	0	1	16659	2	0	next	other	0
+68	Response	1	1544894	8948	1
+69	Picture	VisualOnly_Trial	1557603	4998	1	666	2	5000	500	other	0
+70	Picture	ISI	1558436	0	1	16658	3	0	next	other	0
+70	Pulse	30	1560000	1564	NA
+71	Picture	VisualOnly_Trial	1580092	4998	1	666	3	5000	500	other	0
+72	Picture	ISI	1580923	0	3	16661	4	0	next	other	0
+72	Pulse	30	1590000	9077	NA
+73	Picture	VisualOnly_Trial	1602581	4997	2	667	3	5000	500	other	0
+74	Picture	ISI	1603414	0	2	16659	3	0	next	other	0
+74	Pulse	30	1620000	16586	NA
+75	Sound	AudioOnly_Target_A	1624914	4841	2			5000		other	0
+76	Picture	ISI	1625737	0	1	16650	15	0	next	other	0
+76	Response	1	1635694	9957	1
+77	Sound	AudioOnly_Trial_A	1647254	4867	2			5000		other	0
+78	Picture	ISI	1648227	0	1	16658	3	0	next	other	0
+78	Pulse	30	1650000	1773	NA
+79	Sound	AudioOnly_Trial_A	1669727	4842	2			5000		other	0
+80	Picture	ISI	1670716	0	1	16659	2	0	next	other	0
+80	Pulse	30	1680000	9284	NA
+81	Sound	AudioOnly_Trial_A	1692216	4841	2			5000		other	0
+82	Picture	ISI	1693205	0	2	16659	3	0	next	other	0
+83	Pulse	30	1710000	136	NA
+83	Sound	AudioOnly_Trial_A	1714705	4841	2			5000		other	0
+84	Picture	ISI	1715695	0	1	16659	2	0	next	other	0
+85	Picture	VisualOnly_Target	1737351	4997	1	500	2	5000	500	other	0
+86	Picture	ISI	1739184	0	1	16659	2	0	next	other	0
+86	Pulse	30	1740000	816	NA
+86	Response	1	1743614	4430	1
+87	Picture	Tactile_Trial	1760840	4997	1	1166	3	5000	next	other	0
+88	Picture	ISI	1762006	0	2	16659	3	0	next	other	0
+88	Pulse	30	1770000	7994	NA
+89	Picture	Tactile_Target	1783663	4998	1	3332	2	5000	next	hit	162
+90	Picture	ISI	1786995	0	1	16658	2	0	next	other	0
+90	Response	1	1792254	5259	1
+90	Pulse	30	1800000	13005	NA
+91	Picture	VisualOnly_Trial	1808651	4998	1	666	2	5000	500	other	0
+92	Picture	ISI	1809484	0	1	16659	2	0	next	other	0
+93	Pulse	30	1830000	3857	NA
+93	Picture	VisualOnly_Target	1831140	4997	1	500	2	5000	500	other	0
+94	Picture	ISI	1832973	0	1	16659	2	0	next	other	0
+94	Response	1	1838334	5361	1
+95	Picture	Tactile_Trial	1854629	4997	1	1166	3	5000	next	other	0
+96	Picture	ISI	1855795	0	2	16659	3	0	next	other	0
+96	Pulse	30	1860000	4205	NA
+97	Picture	Tactile_Trial	1877452	4998	1	1166	2	5000	next	other	0
+98	Picture	ISI	1878618	0	1	16659	2	0	next	other	0
+98	Pulse	30	1890000	11382	NA
+99	Picture	Tactile_Trial	1900274	4997	1	1167	2	5000	next	other	0
+100	Picture	ISI	1901441	0	1	16658	2	0	next	other	0
+101	Pulse	30	1920000	1901	NA
+101	Picture	Tactile_Trial	1923096	4997	2	1167	4	5000	next	other	0
+102	Picture	ISI	1924263	0	2	16659	3	0	next	other	0
+103	Picture	Tactile_Target	1945920	4998	1	3331	2	5000	next	hit	184
+104	Picture	ISI	1949251	0	1	16659	2	0	next	other	0
+104	Pulse	30	1950000	749	NA
+104	Response	1	1953055	3804	1
+105	Sound	AudioOnly_Trial_A	1970769	4859	2			5000		other	0
+106	Picture	ISI	1971741	0	1	16659	2	0	next	other	0
+106	Pulse	30	1980000	8259	NA
+107	Sound	AudioOnly_Trial_A	1993241	4841	1			5000		other	0
+108	Picture	ISI	1994230	0	1	16659	2	0	next	other	0
+108	Pulse	30	2010000	15770	NA
+109	Picture	VisualOnly_Target	2015887	4998	1	499	2	5000	500	other	0
+110	Picture	ISI	2017719	0	1	16659	2	0	next	other	0
+110	Response	1	2021614	3895	1
+111	Picture	Tactile_Trial	2039375	4997	2	1166	4	5000	next	other	0
+111	Pulse	30	2040000	5622	NA
+112	Picture	ISI	2040541	0	2	16659	4	0	next	other	0
+113	Picture	Tactile_Trial	2062198	4998	1	1166	2	5000	next	other	0
+114	Picture	ISI	2063364	0	1	16659	2	0	next	other	0
+114	Pulse	30	2070000	6636	NA
+115	Picture	Tactile_Trial	2085021	4998	1	1165	3	5000	next	other	0
+116	Picture	ISI	2086186	0	2	16659	4	0	next	other	0
+116	Pulse	30	2100000	13814	NA
+117	Picture	Tactile_Target	2107843	4998	1	3332	2	5000	next	hit	205
+118	Picture	ISI	2111175	0	1	16659	2	0	next	other	0
+118	Response	1	2115854	4679	1
+119	Pulse	30	2130000	2166	NA
+119	Sound	AudioOnly_Trial_A	2132692	4858	2			5000		other	0
+120	Picture	ISI	2133664	0	1	16659	2	0	next	other	0
+121	Sound	AudioOnly_Trial_A	2155164	4841	2			5000		other	0
+122	Picture	ISI	2156154	0	1	16658	3	0	next	other	0
+122	Pulse	30	2160000	3846	NA
+123	Sound	AudioOnly_Trial_A	2177654	4842	2			5000		other	0
+124	Picture	ISI	2178643	0	1	16659	2	0	next	other	0
+124	Pulse	30	2190000	11357	NA
+125	Sound	AudioOnly_Trial_A	2200143	4841	2			5000		other	0
+126	Picture	ISI	2201132	0	2	16659	3	0	next	other	0
+127	Pulse	30	2220000	2209	NA
+127	Sound	AudioOnly_Target_A	2222632	4841	2			5000		other	0
+128	Picture	ISI	2223455	0	1	16659	2	0	next	other	0
+128	Response	1	2228174	4719	1
+129	Picture	Tactile_Trial	2245111	4997	3	1167	4	5000	next	other	0
+130	Picture	ISI	2246278	0	1	16659	2	0	next	other	0
+130	Pulse	30	2250000	3722	NA
+131	Sound	AudioOnly_Target_A	2267778	4841	2			5000		other	0
+132	Picture	ISI	2268601	0	1	16658	3	0	next	other	0
+132	Response	1	2278333	9732	2
+132	Pulse	30	2280000	11399	NA
+133	Sound	AudioOnly_Trial_A	2290118	4859	2			5000		other	0
+134	Picture	ISI	2291090	0	1	16659	2	0	next	other	0
+135	Pulse	30	2310000	2251	NA
+135	Sound	AudioOnly_Trial_A	2312590	4841	2			5000		other	0
+136	Picture	ISI	2313579	0	2	16659	3	0	next	other	0
+137	Sound	AudioOnly_Trial_A	2335079	4841	2			5000		other	0
+138	Picture	ISI	2336069	0	1	16659	2	0	next	other	0
+138	Pulse	30	2340000	3931	NA
+139	Sound	AudioOnly_Target_A	2357569	4841	2			5000		other	0
+140	Picture	ISI	2358392	0	1	16658	3	0	next	other	0
+140	Response	1	2365855	7463	1
+140	Pulse	30	2370000	11608	NA
+141	Picture	Tactile_Trial	2380048	4998	1	1166	2	5000	next	other	0
+142	Picture	ISI	2381214	0	1	16659	2	0	next	other	0
+143	Pulse	30	2400000	2127	NA
+143	Picture	Tactile_Trial	2402870	4997	2	1167	3	5000	next	other	0
+144	Picture	ISI	2404037	0	1	16658	3	0	next	other	0
+145	Picture	Tactile_Target	2425693	4998	1	3332	2	5000	next	hit	248
+146	Picture	ISI	2429025	0	1	16659	2	0	next	other	0
+146	Pulse	30	2430000	975	NA
+146	Response	1	2432974	3949	1
+147	Picture	Tactile_Trial	2450681	4997	2	1166	4	5000	next	other	0
+148	Picture	ISI	2451847	0	2	16659	4	0	next	other	0
+148	Pulse	30	2460000	8153	NA
+149	Picture	Tactile_Trial	2473504	4998	1	1166	2	5000	next	other	0
+150	Picture	ISI	2474670	0	1	16659	2	0	next	other	0
+150	Pulse	30	2490000	15330	NA
+151	Picture	Tactile_Trial	2496326	4997	2	1167	3	5000	next	other	0
+152	Picture	ISI	2497493	0	1	16658	3	0	next	other	0
+153	Picture	Tactile_Trial	2519149	4998	1	1166	2	5000	next	other	0
+153	Pulse	30	2520000	5849	NA
+154	Picture	ISI	2520315	0	1	16659	2	0	next	other	0
+155	Sound	AudioOnly_Target_A	2541815	4841	2			5000		other	0
+156	Picture	ISI	2542638	0	1	16659	2	0	next	other	0
+156	Pulse	30	2550000	7362	NA
+156	Response	1	2550894	8256	1
+157	Sound	AudioOnly_Trial_A	2564154	4857	2			5000		other	0
+158	Picture	ISI	2565127	0	2	16659	3	0	next	other	0
+158	Pulse	30	2580000	14873	NA
+159	Sound	AudioOnly_Trial_A	2586628	4842	2			5000		other	0
+160	Picture	ISI	2587617	0	1	16658	3	0	next	other	0
+161	Sound	AudioOnly_Trial_A	2609117	4842	2			5000		other	0
+161	Pulse	30	2610000	5725	NA
+162	Picture	ISI	2610106	0	1	16659	2	0	next	other	0
+163	Picture	Tactile_Target	2631763	4998	1	3331	3	5000	next	hit	274
+164	Picture	ISI	2635094	0	2	16659	4	0	next	other	0
+164	Response	1	2639134	4040	1
+164	Pulse	30	2640000	4906	NA
+165	Sound	AudioOnly_Trial_A	2656610	4857	2			5000		other	0
+166	Picture	ISI	2657584	0	1	16659	2	0	next	other	0
+166	Pulse	30	2670000	12416	NA
+167	Sound	AudioOnly_Trial_A	2679084	4841	2			5000		other	0
+168	Picture	ISI	2680073	0	1	16659	2	0	next	other	0
+169	Pulse	30	2700000	3268	NA
+169	Picture	Tactile_Target	2701729	4997	2	3332	4	5000	next	hit	284
+170	Picture	ISI	2705061	0	2	16659	3	0	next	other	0
+170	Response	1	2709374	4313	1
+171	Picture	VisualOnly_Trial	2726718	4998	1	666	2	5000	500	other	0
+172	Picture	ISI	2727551	0	1	16658	3	0	next	other	0
+172	Pulse	30	2730000	2449	NA
+173	Picture	Tactile_Target	2749207	4998	1	3332	2	5000	next	hit	293
+174	Picture	Final_Fixation	2752539	0	1	10661	3	0	next	other	0
+174	Pulse	30	2760000	7461	NA
+174	Pulse	30	2790000	37461	NA
+174	Pulse	30	2820000	67461	NA
+174	Response	1	2833294	80755	1
+174	Pulse	30	2850000	97461	NA
+174	Pulse	30	2880000	127461	NA
+174	Pulse	30	2910000	157461	NA
+174	Pulse	30	2940000	187461	NA
+174	Pulse	30	2970000	217461	NA
+174	Pulse	30	3000000	247461	NA
+174	Pulse	30	3030000	277461	NA
+174	Pulse	30	3060000	307461	NA
+174	Pulse	30	3090000	337461	NA
+174	Pulse	30	3120000	367461	NA
+174	Pulse	30	3150000	397461	NA
+174	Pulse	30	3180000	427461	NA
+174	Pulse	30	3210000	457461	NA
+174	Pulse	30	3240000	487461	NA
+174	Pulse	30	3270000	517461	NA
