@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1453275.svg)](https://doi.org/10.5281/zenodo.1453275)
+
 # AVT_presentation_code-screening
 
 Code to run the participant screening part of the AVT fMRI study. 
